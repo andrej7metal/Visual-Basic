@@ -1,0 +1,40 @@
+E:\VB.NET\Projeto Livros\Projeto Livros\bin\Debug\Projeto Livros.exe.config
+E:\VB.NET\Projeto Livros\Projeto Livros\bin\Debug\Projeto Livros.exe
+E:\VB.NET\Projeto Livros\Projeto Livros\bin\Debug\Projeto Livros.pdb
+E:\VB.NET\Projeto Livros\Projeto Livros\bin\Debug\Projeto Livros.xml
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto_Livros.FRMLivros.resources
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto_Livros.Resources.resources
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto Livros.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto Livros.exe
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto Livros.xml
+E:\VB.NET\Projeto Livros\Projeto Livros\obj\Debug\Projeto Livros.pdb
+E:\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.exe.config
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.exe
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.xml
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.pdb
+E:\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.exe
+E:\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.pdb
+E:\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.xml
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto_Livros.FRMLivros.resources
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto_Livros.Resources.resources
+E:\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\bin\Debug\Projeto Livros.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto_Livros.FRMLivros.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto_Livros.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Livros\obj\Debug\Projeto Livros.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\bin\Debug\Projeto Livros.exe.config
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto Livros.exe
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto Livros.xml
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto Livros.pdb
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\bin\Debug\Projeto Livros.exe
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\bin\Debug\Projeto Livros.pdb
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\bin\Debug\Projeto Livros.xml
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto_Livros.FRMLivros.resources
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto_Livros.Resources.resources
+C:\Users\administrador1\Desktop\Git_Vb\Projeto Livros 9\obj\Debug\Projeto Livros.vbproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\bin\Debug\Estaçoes_Do_Ano.exe.config
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\bin\Debug\Estaçoes_Do_Ano.exe
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\bin\Debug\Estaçoes_Do_Ano.pdb
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\bin\Debug\Estaçoes_Do_Ano.xml
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.Form1.resources
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.Resources.resources
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.exe
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.xml
+C:\Users\administrador1\Desktop\Git_Vb\012_estaçoes_Ano\Estaçoes_Do_Ano\Estaçoes_Do_Ano\obj\Debug\Estaçoes_Do_Ano.pdb

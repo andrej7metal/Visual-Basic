@@ -1,0 +1,192 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjetoQuiz
+</name>
+</assembly>
+<members>
+<member name="P:Projeto_Quiz.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.artes_marciais">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.atletismo">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.axé">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.baseball">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Basquete">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.box">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.capoeira">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Ciclismo">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.comédia">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Corinthians">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Cruzeiro">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.drama">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.eletrônica">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.forró">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.funk">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.futebol">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.gato_musica">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.ginástica">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.gospel">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.infantil">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.musculação">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Music">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.musicamagiagifs20">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.natação">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Palmeiras">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.ping_pong">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.quiz">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.rap">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.reggae">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.rock">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.romance">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.samba">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Santos">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Sao_Paulo">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.sem_time">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.sertanejo">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.skate">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.surf">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.suspense">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.tênis">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.Terror">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Quiz.My.Resources.Resources.voleibol">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Projeto_Quiz.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+</members>
+</doc>

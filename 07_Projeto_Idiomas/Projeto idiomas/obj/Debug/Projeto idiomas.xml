@@ -1,0 +1,72 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Projetoidiomas
+</name>
+</assembly>
+<members>
+<member name="P:Projeto_idiomas.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.alemanha">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Alemão">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.brasil">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.espanha">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Espanhol">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.eua">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.frança">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Francês">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Inglês">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.itália">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Italiano">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_idiomas.My.Resources.Resources.Português">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="T:Projeto_idiomas.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+</members>
+</doc>

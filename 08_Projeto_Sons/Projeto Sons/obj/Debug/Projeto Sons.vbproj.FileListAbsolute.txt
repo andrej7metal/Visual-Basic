@@ -1,0 +1,34 @@
+E:\VB.NET\Projeto Sons\Projeto Sons\bin\Debug\Projeto Sons.exe.config
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto_Sons.FRMSons.resources
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto_Sons.Resources.resources
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto Sons.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Sons\Projeto Sons\bin\Debug\Projeto Sons.exe
+E:\VB.NET\Projeto Sons\Projeto Sons\bin\Debug\Projeto Sons.pdb
+E:\VB.NET\Projeto Sons\Projeto Sons\bin\Debug\Projeto Sons.xml
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto Sons.exe
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto Sons.xml
+E:\VB.NET\Projeto Sons\Projeto Sons\obj\Debug\Projeto Sons.pdb
+E:\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.exe.config
+E:\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.exe
+E:\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.xml
+E:\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto_Sons.FRMSons.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto_Sons.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\bin\Debug\Projeto Sons.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto_Sons.FRMSons.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto_Sons.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Sons 8\Projeto Sons\obj\Debug\Projeto Sons.vbproj.GenerateResource.Cache

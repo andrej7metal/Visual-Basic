@@ -1,0 +1,44 @@
+E:\vb.net..Leo\projeto produtos\bin\Debug\projeto produtos.exe.config
+E:\vb.net..Leo\projeto produtos\bin\Debug\projeto produtos.exe
+E:\vb.net..Leo\projeto produtos\bin\Debug\projeto produtos.pdb
+E:\vb.net..Leo\projeto produtos\bin\Debug\projeto produtos.xml
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto_produtos.Resources.resources
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto produtos.vbproj.GenerateResource.Cache
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto produtos.exe
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto produtos.xml
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto produtos.pdb
+E:\vb.net..Leo\projeto produtos\obj\Debug\projeto_produtos.frmproduto.resources
+E:\VB.NET\projeto produtos\bin\Debug\projeto produtos.exe.config
+E:\VB.NET\projeto produtos\obj\Debug\projeto produtos.exe
+E:\VB.NET\projeto produtos\obj\Debug\projeto produtos.xml
+E:\VB.NET\projeto produtos\obj\Debug\projeto produtos.pdb
+E:\VB.NET\projeto produtos\bin\Debug\projeto produtos.exe
+E:\VB.NET\projeto produtos\bin\Debug\projeto produtos.pdb
+E:\VB.NET\projeto produtos\bin\Debug\projeto produtos.xml
+E:\VB.NET\projeto produtos\obj\Debug\projeto_produtos.frmproduto.resources
+E:\VB.NET\projeto produtos\obj\Debug\projeto_produtos.Resources.resources
+E:\VB.NET\projeto produtos\obj\Debug\projeto produtos.vbproj.GenerateResource.Cache
+E:\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.exe.config
+E:\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.exe
+E:\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.xml
+E:\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto_produtos.frmproduto.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto_produtos.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\bin\Debug\projeto produtos.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto_produtos.frmproduto.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto_produtos.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\projeto produtos 2\obj\Debug\projeto produtos.vbproj.GenerateResource.Cache

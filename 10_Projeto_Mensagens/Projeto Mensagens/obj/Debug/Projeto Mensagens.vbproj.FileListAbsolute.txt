@@ -1,0 +1,40 @@
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe.config
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\bin\Debug\Projeto Mensagens.pdb
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\bin\Debug\Projeto Mensagens.xml
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Form1.resources
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Resources.resources
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto Mensagens.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto Mensagens.exe
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto Mensagens.xml
+E:\VB.NET\Projeto Mensagens\Projeto Mensagens\obj\Debug\Projeto Mensagens.pdb
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe.config
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.exe
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.xml
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.pdb
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.pdb
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.xml
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Form1.resources
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Resources.resources
+E:\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Form1.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\bin\Debug\Projeto Mensagens.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Form1.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto_Mensagens.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Mensagens 10\Projeto Mensagens\obj\Debug\Projeto Mensagens.vbproj.GenerateResource.Cache

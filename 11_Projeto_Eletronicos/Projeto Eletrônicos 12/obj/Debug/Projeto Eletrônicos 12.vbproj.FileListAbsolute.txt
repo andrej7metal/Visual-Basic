@@ -1,0 +1,13 @@
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\bin\Debug\Projeto Eletrônicos 12.exe.config
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\bin\Debug\Projeto Eletrônicos 12.exe
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\bin\Debug\Projeto Eletrônicos 12.pdb
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\bin\Debug\Projeto Eletrônicos 12.xml
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto_Eletrônicos_12.Resources.resources
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto_Eletrônicos_12.FrmTELEVISORES.resources
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto Eletrônicos 12.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto Eletrônicos 12.exe
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto Eletrônicos 12.xml
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto Eletrônicos 12.pdb
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto_Eletrônicos_12.FrmIMPRESSORAS.resources
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto_Eletrônicos_12.FrmComputadores.resources
+E:\VB.NET\Projeto Eletronicos\Projeto Eletrônicos 12\obj\Debug\Projeto_Eletrônicos_12.FrmProjetoEletronicos.resources

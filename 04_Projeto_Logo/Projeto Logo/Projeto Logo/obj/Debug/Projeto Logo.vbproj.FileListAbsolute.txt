@@ -1,0 +1,44 @@
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.pdb
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.Resources.resources
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+E:\VB.NET\Projeto logo\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.frmLogo.resources
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+E:\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.frmLogo.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.frmLogo.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe.config
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.exe
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.xml
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.exe
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.pdb
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\bin\Debug\Projeto Logo.xml
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.frmLogo.resources
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto_Logo.Resources.resources
+C:\Users\administrador1\Desktop\Git_Vb\Projeto logo 3\Projeto Logo\Projeto Logo\obj\Debug\Projeto Logo.vbproj.GenerateResource.Cache

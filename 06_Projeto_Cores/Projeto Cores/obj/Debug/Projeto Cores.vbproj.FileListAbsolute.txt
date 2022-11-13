@@ -1,0 +1,40 @@
+E:\VB.NET\Projeto cores\Projeto Cores\bin\Debug\Projeto Cores.exe.config
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto_Cores.Resources.resources
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto Cores.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto cores\Projeto Cores\bin\Debug\Projeto Cores.exe
+E:\VB.NET\Projeto cores\Projeto Cores\bin\Debug\Projeto Cores.pdb
+E:\VB.NET\Projeto cores\Projeto Cores\bin\Debug\Projeto Cores.xml
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto Cores.exe
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto Cores.xml
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto Cores.pdb
+E:\VB.NET\Projeto cores\Projeto Cores\obj\Debug\Projeto_Cores.frmprojetocores.resources
+E:\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe.config
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.exe
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.xml
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.pdb
+E:\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe
+E:\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.pdb
+E:\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.xml
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.frmprojetocores.resources
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.Resources.resources
+E:\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.pdb
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.frmprojetocores.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.Resources.resources
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\bin\Debug\Projeto Cores.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.frmprojetocores.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto_Cores.Resources.resources
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto cores 6\Projeto Cores\obj\Debug\Projeto Cores.vbproj.GenerateResource.Cache

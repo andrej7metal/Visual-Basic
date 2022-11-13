@@ -1,0 +1,136 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjetoSons
+</name>
+</assembly>
+<members>
+<member name="P:Projeto_Sons.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Culture">
+	<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Alarme">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.AlarmeIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Aplausos">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.AplausosIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.assobioIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Assovio">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Bomba">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.bombaIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.CAMERA">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.cameraIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Campainha">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.CampainhaIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Dinheiro">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.DinheiroIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Drama">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.DramaIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Espirro">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.EspirrroIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Mágica">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.MágicaIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Mensagem">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.MensagemIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Tosse">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.tosseIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.TrompeteIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Trumpete">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.Vaiar">
+	<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member><member name="P:Projeto_Sons.My.Resources.Resources.VaiarIMG">
+	<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Projeto_Sons.My.Resources.Resources">
+	<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,28 @@
+E:\VB.NET\Projeto Quiz\bin\Debug\Projeto Quiz.exe.config
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto_Quiz.frmQuiz.resources
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto_Quiz.Resources.resources
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto Quiz.vbproj.GenerateResource.Cache
+E:\VB.NET\Projeto Quiz\bin\Debug\Projeto Quiz.exe
+E:\VB.NET\Projeto Quiz\bin\Debug\Projeto Quiz.pdb
+E:\VB.NET\Projeto Quiz\bin\Debug\Projeto Quiz.xml
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto Quiz.exe
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto Quiz.xml
+E:\VB.NET\Projeto Quiz\obj\Debug\Projeto Quiz.pdb
+E:\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.exe.config
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.exe
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.xml
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.pdb
+E:\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.exe
+E:\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.pdb
+E:\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.xml
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto_Quiz.frmQuiz.resources
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto_Quiz.Resources.resources
+E:\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.vbproj.GenerateResource.Cache
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.exe.config
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.exe
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.xml
+C:\Users\administrador1\Documents\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.pdb
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Quiz 5\bin\Debug\Projeto Quiz.exe.config
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.exe
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.xml
+C:\Users\administrador1\Desktop\Vb.net dom bosco\VB.NET\Projeto Quiz 5\obj\Debug\Projeto Quiz.pdb
